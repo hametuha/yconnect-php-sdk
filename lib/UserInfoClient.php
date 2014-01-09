@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file UserInfoClient.php
+namespace YConnect;
+
+    /** \file UserInfoClient.php
  *
  * \brief OAuth2 Authorization処理クラスです.
  */

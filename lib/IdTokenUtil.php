@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file IdTokenUtil.inc
+namespace YConnect;
+
+    /** \file IdTokenUtil.inc
  *
  */
 

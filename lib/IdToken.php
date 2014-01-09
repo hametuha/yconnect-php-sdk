@@ -23,7 +23,7 @@
  * THE SOFTWARE.
  */
 
-require_once "JWT.php";
+namespace YConnect;
 
 /**
  * IdToken Data Object

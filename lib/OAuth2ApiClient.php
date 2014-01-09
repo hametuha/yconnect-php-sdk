@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2ApiClient.php
+namespace YConnect;
+
+    /** \file OAuth2ApiClient.php
  *
  * \brief Web APIアクセスの機能を提供するクラスを定義しています.
  */

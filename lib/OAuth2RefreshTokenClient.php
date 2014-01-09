@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2RefreshTokenClient.php
+namespace YConnect;
+
+    /** \file OAuth2RefreshTokenClient.php
  *
  * \brief Refresh Token フローの機能を実装しています.
  */

@@ -23,6 +23,8 @@
  * THE SOFTWARE.
  */
 
+namespace YConnect;
+
 /** \file YConnectLogger.php
  *
  * \brief YConnectLoggerクラスです.

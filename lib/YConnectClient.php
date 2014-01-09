@@ -23,6 +23,8 @@
  * THE SOFTWARE.
  */
 
+namespace YConnect;
+
 /**
  * \file YConnectClient.php
  *

@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2RefreshToken.php
+namespace YConnect;
+
+    /** \file OAuth2RefreshToken.php
  *
  * \brief Refresh Tokenを保持するクラスを定義しています.
  */

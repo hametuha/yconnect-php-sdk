@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2ClientCredentialsClient.php
+namespace YConnect;
+
+    /** \file OAuth2ClientCredentialsClient.php
  *
  * \brief Authorization Code フローの機能を実装しています.
  */

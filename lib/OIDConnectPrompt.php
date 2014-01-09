@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OIDConnectPrompt.php
+namespace YConnect;
+
+    /** \file OIDConnectPrompt.php
  *
  * \brief promptの列挙型クラスです.
  */

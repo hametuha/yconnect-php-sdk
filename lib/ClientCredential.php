@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file ClientCredential.php
+namespace YConnect;
+
+    /** \file ClientCredential.php
  *
  * \brief クレデンシャルを保持するクラスを定義しています.
  */

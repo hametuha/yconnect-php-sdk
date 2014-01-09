@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file HttpClient.php
+namespace YConnect;
+
+    /** \file HttpClient.php
  *
  * \brief HTTP通信の機能を提供するクラスを定義しています.
  */

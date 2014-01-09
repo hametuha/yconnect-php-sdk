@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2ApiException.php
+namespace YConnect;
+
+    /** \file OAuth2ApiException.php
  *
  * \brief Web API例外処理クラスを定義しています.
  */

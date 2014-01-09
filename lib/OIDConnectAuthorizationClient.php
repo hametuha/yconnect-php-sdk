@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OIDConnectAuthorizationClient.php
+namespace YConnect;
+
+    /** \file OIDConnectAuthorizationClient.php
  *
  * \brief OpenID Connect Authorization処理クラスです.
  */

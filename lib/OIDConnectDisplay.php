@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OIDConnectDisplay.php
+namespace YConnect;
+
+    /** \file OIDConnectDisplay.php
  *
  * \brief displayの列挙型クラスです.
  */

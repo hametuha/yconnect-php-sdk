@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2AuthorizationException.php
+namespace YConnect;
+
+    /** \file OAuth2AuthorizationException.php
  *
  * \brief 認可サーバ例外処理クラスを定義しています.
  */

@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2GrantType.php
+namespace YConnect;
+
+    /** \file OAuth2GrantType.php
  *
  * \brief grant_typeの列挙型クラスです.
  */

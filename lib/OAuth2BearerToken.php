@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2BearerToken.php
+namespace YConnect;
+
+    /** \file OAuth2BearerToken.php
  *
  * \brief Bearer Tokenを保持するクラスを定義しています.
  */

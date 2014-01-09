@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2ResponseType.php
+namespace YConnect;
+
+    /** \file OAuth2ResponseType.php
  *
  * \brief response_typeの列挙型クラスです.
  */

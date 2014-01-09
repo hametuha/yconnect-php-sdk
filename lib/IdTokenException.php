@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file IdTokenException.php
+namespace YConnect;
+
+    /** \file IdTokenException.php
  *
  * \brief IDトークン例外処理クラスを定義しています.
  */

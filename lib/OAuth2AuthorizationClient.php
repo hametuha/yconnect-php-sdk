@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OAuth2AuthorizationClient.php
+namespace YConnect;
+
+    /** \file OAuth2AuthorizationClient.php
  *
  * \brief OAuth2 Authorization処理クラスです.
  */

@@ -23,7 +23,9 @@
  * THE SOFTWARE.
  */
 
-/** \file OIDConnectScope.php
+namespace YConnect;
+
+    /** \file OIDConnectScope.php
  *
  * \brief scopeの列挙型クラスです.
  */
