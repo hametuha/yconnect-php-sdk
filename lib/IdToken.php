@@ -47,9 +47,9 @@ class IdToken
         if ( $data instanceof stdClass ) {
             $this->_checkFormat($data);
             $this->json = $data;
-            $this->jwt = JWT::encode($data, $key, true);
+            $this->jwt = \JWT::encode($data, $key, true);
         } elseif ( is_string($data) ) {
-            $this->json = JWT::decode($data, $key, true);
+            $this->json = \JWT::decode($data, $key, true);
             $this->_checkFormat($this->json);
             $this->jwt = $data;
         } else {
